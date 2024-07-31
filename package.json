@@ -1,16 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "expresso-ts-backend",
-  "version": "1.0.0",
-  "description": "A expressots backend test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-}
-=======
   "name": "expressots",
   "version": "1.0.0",
   "description": "",
@@ -53,4 +41,3 @@
     "typescript": "5.1.3"
   }
 }
->>>>>>> 0723972 (newproject)
